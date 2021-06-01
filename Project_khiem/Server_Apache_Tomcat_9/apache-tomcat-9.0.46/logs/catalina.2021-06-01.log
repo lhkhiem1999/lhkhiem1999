@@ -1,0 +1,151 @@
+01-Jun-2021 10:30:29.906 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.46
+01-Jun-2021 10:30:29.911 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 8 2021 17:35:52 UTC
+01-Jun-2021 10:30:29.912 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.46.0
+01-Jun-2021 10:30:29.912 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+01-Jun-2021 10:30:29.912 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+01-Jun-2021 10:30:29.912 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+01-Jun-2021 10:30:29.912 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-11.0.6
+01-Jun-2021 10:30:29.912 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.6+8-LTS
+01-Jun-2021 10:30:29.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+01-Jun-2021 10:30:29.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46
+01-Jun-2021 10:30:29.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46
+01-Jun-2021 10:30:29.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+01-Jun-2021 10:30:29.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+01-Jun-2021 10:30:29.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+01-Jun-2021 10:30:29.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+01-Jun-2021 10:30:29.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+01-Jun-2021 10:30:29.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\conf\logging.properties
+01-Jun-2021 10:30:29.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Jun-2021 10:30:29.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-084J14M
+01-Jun-2021 10:30:29.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+01-Jun-2021 10:30:29.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Jun-2021 10:30:29.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+01-Jun-2021 10:30:29.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46
+01-Jun-2021 10:30:29.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46
+01-Jun-2021 10:30:29.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\temp
+01-Jun-2021 10:30:29.951 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.28] using APR version [1.7.0].
+01-Jun-2021 10:30:29.951 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+01-Jun-2021 10:30:29.951 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+01-Jun-2021 10:30:29.958 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+01-Jun-2021 10:30:30.561 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+01-Jun-2021 10:30:30.733 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1125] milliseconds
+01-Jun-2021 10:30:30.796 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+01-Jun-2021 10:30:30.796 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.46]
+01-Jun-2021 10:30:30.812 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\docs]
+01-Jun-2021 10:30:31.353 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\docs] has finished in [541] ms
+01-Jun-2021 10:30:31.353 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\examples]
+01-Jun-2021 10:30:31.900 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\examples] has finished in [547] ms
+01-Jun-2021 10:30:31.900 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\host-manager]
+01-Jun-2021 10:30:31.947 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\host-manager] has finished in [47] ms
+01-Jun-2021 10:30:31.963 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\manager]
+01-Jun-2021 10:30:32.025 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\manager] has finished in [62] ms
+01-Jun-2021 10:30:32.025 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\ROOT]
+01-Jun-2021 10:30:32.088 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\ROOT] has finished in [63] ms
+01-Jun-2021 10:30:32.104 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Jun-2021 10:30:32.135 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1392] milliseconds
+01-Jun-2021 10:33:52.438 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/C:/Users/PEN-TA-KIL/Downloads/Project_khiem/Server_Apache_Tomcat_9/apache-tomcat-9.0.46/conf/tomcat-users.xml]
+01-Jun-2021 10:33:55.699 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+01-Jun-2021 10:33:55.699 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+01-Jun-2021 10:33:55.769 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+01-Jun-2021 10:33:55.785 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+01-Jun-2021 10:33:55.816 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+01-Jun-2021 10:33:58.958 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.46
+01-Jun-2021 10:33:58.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 8 2021 17:35:52 UTC
+01-Jun-2021 10:33:58.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.46.0
+01-Jun-2021 10:33:58.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+01-Jun-2021 10:33:58.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+01-Jun-2021 10:33:58.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+01-Jun-2021 10:33:58.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-11.0.6
+01-Jun-2021 10:33:58.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.6+8-LTS
+01-Jun-2021 10:33:58.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+01-Jun-2021 10:33:58.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46
+01-Jun-2021 10:33:58.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46
+01-Jun-2021 10:33:58.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+01-Jun-2021 10:33:58.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+01-Jun-2021 10:33:58.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+01-Jun-2021 10:33:58.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+01-Jun-2021 10:33:58.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+01-Jun-2021 10:33:58.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\conf\logging.properties
+01-Jun-2021 10:33:58.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Jun-2021 10:33:58.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-084J14M
+01-Jun-2021 10:33:58.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+01-Jun-2021 10:33:58.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Jun-2021 10:33:58.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+01-Jun-2021 10:33:58.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46
+01-Jun-2021 10:33:58.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46
+01-Jun-2021 10:33:58.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\temp
+01-Jun-2021 10:33:59.057 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.28] using APR version [1.7.0].
+01-Jun-2021 10:33:59.058 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+01-Jun-2021 10:33:59.058 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+01-Jun-2021 10:33:59.065 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+01-Jun-2021 10:33:59.493 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+01-Jun-2021 10:33:59.672 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [990] milliseconds
+01-Jun-2021 10:33:59.770 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+01-Jun-2021 10:33:59.770 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.46]
+01-Jun-2021 10:33:59.781 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\docs]
+01-Jun-2021 10:34:00.278 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\docs] has finished in [483] ms
+01-Jun-2021 10:34:00.279 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\examples]
+01-Jun-2021 10:34:00.803 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\examples] has finished in [524] ms
+01-Jun-2021 10:34:00.803 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\host-manager]
+01-Jun-2021 10:34:00.846 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\host-manager] has finished in [43] ms
+01-Jun-2021 10:34:00.846 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\manager]
+01-Jun-2021 10:34:00.893 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\manager] has finished in [47] ms
+01-Jun-2021 10:34:00.893 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\ROOT]
+01-Jun-2021 10:34:00.966 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\ROOT] has finished in [72] ms
+01-Jun-2021 10:34:00.971 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Jun-2021 10:34:00.989 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1315] milliseconds
+01-Jun-2021 10:34:28.860 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+01-Jun-2021 10:34:28.861 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+01-Jun-2021 10:34:28.916 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+01-Jun-2021 10:34:28.940 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+01-Jun-2021 10:34:28.973 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+01-Jun-2021 10:34:41.755 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.46
+01-Jun-2021 10:34:41.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 8 2021 17:35:52 UTC
+01-Jun-2021 10:34:41.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.46.0
+01-Jun-2021 10:34:41.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+01-Jun-2021 10:34:41.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+01-Jun-2021 10:34:41.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+01-Jun-2021 10:34:41.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-11.0.6
+01-Jun-2021 10:34:41.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.6+8-LTS
+01-Jun-2021 10:34:41.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+01-Jun-2021 10:34:41.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46
+01-Jun-2021 10:34:41.760 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46
+01-Jun-2021 10:34:41.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+01-Jun-2021 10:34:41.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+01-Jun-2021 10:34:41.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+01-Jun-2021 10:34:41.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+01-Jun-2021 10:34:41.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+01-Jun-2021 10:34:41.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\conf\logging.properties
+01-Jun-2021 10:34:41.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Jun-2021 10:34:41.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-084J14M
+01-Jun-2021 10:34:41.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+01-Jun-2021 10:34:41.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Jun-2021 10:34:41.781 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+01-Jun-2021 10:34:41.782 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46
+01-Jun-2021 10:34:41.782 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46
+01-Jun-2021 10:34:41.782 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\temp
+01-Jun-2021 10:34:41.787 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.28] using APR version [1.7.0].
+01-Jun-2021 10:34:41.787 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+01-Jun-2021 10:34:41.787 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+01-Jun-2021 10:34:41.794 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+01-Jun-2021 10:34:42.172 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+01-Jun-2021 10:34:42.291 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [755] milliseconds
+01-Jun-2021 10:34:42.355 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+01-Jun-2021 10:34:42.355 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.46]
+01-Jun-2021 10:34:42.367 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\docs]
+01-Jun-2021 10:34:42.812 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\docs] has finished in [445] ms
+01-Jun-2021 10:34:42.812 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\examples]
+01-Jun-2021 10:34:43.314 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\examples] has finished in [502] ms
+01-Jun-2021 10:34:43.316 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\host-manager]
+01-Jun-2021 10:34:43.372 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\host-manager] has finished in [57] ms
+01-Jun-2021 10:34:43.373 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\manager]
+01-Jun-2021 10:34:43.414 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\manager] has finished in [41] ms
+01-Jun-2021 10:34:43.415 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\ROOT]
+01-Jun-2021 10:34:43.451 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\PEN-TA-KIL\Downloads\Project_khiem\Server_Apache_Tomcat_9\apache-tomcat-9.0.46\webapps\ROOT] has finished in [36] ms
+01-Jun-2021 10:34:43.456 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Jun-2021 10:34:43.468 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1177] milliseconds
+01-Jun-2021 10:48:52.968 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+01-Jun-2021 10:48:52.968 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+01-Jun-2021 10:48:53.045 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+01-Jun-2021 10:48:53.098 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+01-Jun-2021 10:48:53.158 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
